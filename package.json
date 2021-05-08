@@ -33,7 +33,7 @@
   },
   "devDependencies": {
     "esformatter": "^0.10.0",
-    "lodash": "^4.17.11",
+    "lodash": "^4.17.21",
     "react-scripts": "^3.0.0"
   },
   "jest": {
